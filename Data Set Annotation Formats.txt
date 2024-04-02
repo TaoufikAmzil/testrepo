@@ -1,0 +1,61 @@
+# Speed Bumps :
+---------------
+- Data1 : Will be annotate
+- Data2 : YOLO -> !!!
+- Data3 : XML-> YOLO
+- Data4 : XML-> YOLO
+- Data5 : Will be annotate
+- Data6 : Will be annotate
+- Data7 : YOLO
+- Data8 : Seg -> YOLO
+- Data9 : YOLO
+- Data10 : YOLO
+- Data11 : YOLO
+- Data12 : Seg -> YOLO
+- Data13 : Will be annotate
+- Data14 : YOLO
+- Data15 : YOLO
+- Data16 : YOLO
+- Data17 : YOLO
+- Data18 : Seg -> YOLO
+- Data19 : YOLO
+- Data20 : YOLO
+- Data21 : YOLO
+
+# Potholes :
+------------
+- Data1 : XML
+- Data2 : YOLO
+- Data3 : Will be annotate
+- Data4 : XML
+- Data5 : YOLO
+- Data6 : XML
+- Data7 : JSON
+- Data8 : Will be annotate
+- Data9 : YOLO
+- Data10 : Will be annotate
+- Data11 : Will be annotate
+- Data12 : Segmentation
+- Data13 : XML
+- Data14 : Will be annotate
+- Data15 : YOLO
+- Data16 : YOLO + XML
+- Data17 : YOLO
+- Data18 : YOLO
+- Data19 : YOLO
+- Data20 : YOLO
+- Data21 : YOLO
+- Data22 : YOLO
+- Data23 : YOLO
+- Data24 : YOLO
+- Data25 : YOLO
+- Data26 : Segmentation
+- Data27 : YOLO
+- Data28 : YOLO
+- Data29 : Will be annotate
+- Data30 : YOLO
+- Data31 : Segmentation + YOLO
+- Data32 : YOLO
+- Data33 : YOLO
+- Data34 : YOLO
+- Data35 : YOLO
